@@ -25,6 +25,3 @@ i love memes
 
 Лимоны желтые
 
-=======
-i love memes
->>>>>>> krinzh
